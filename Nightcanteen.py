@@ -1,6 +1,6 @@
 ##nc=open('./NightCanteen.txt')
 ##print("Night Canteen List")
-##print("1. Cafe Dialog \n2. Kebab Nation \n3. Login \n4. Saras \n5. Cruncheez")
+##print("1. Cafe Dialog \n2. Kebab Nation \n3. Login \n4. Saras \n5. Crunchez")
 ##res=input("\nEnter Night Canteen Hotel Name \n")
 ##res=res.lower()
 ##name=list(res)
